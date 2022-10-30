@@ -13,7 +13,7 @@ I recommend using the .bat file on Windows.
 2. ... and paste the below content and save,
 3. and then you can simply double-click it to kill League of Legends. 
 
-*Sadly, PowerShell doesn't support double-click to run indentionally, and enabling it isn't straight-forward.*
+*Sadly, PowerShell doesn't support double-click to run as a safety feature, and enabling it isn't straight-forward.*
 
 ```batch
 taskkill /f /t /im RiotClientUx.exe
